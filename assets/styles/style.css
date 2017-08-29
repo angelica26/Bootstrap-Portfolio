@@ -1,0 +1,40 @@
+/*#me {
+	float: right;
+}
+*/
+p {
+	font-family: Helvetica, sans-serif;
+	
+}
+
+h2 {
+	font-size: 26px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #cb42f4;
+	}
+
+
+ 
+
+ /*.connect_line {
+	position: absolute;
+	top: 0;
+	width: 45%;
+	height: 2px;
+	border: none;
+	text-align: left;
+	background-color: #694274; 
+	color: #694274;
+ }*/
+
+ .icon_set {
+ 	text-align: left;
+ }
+
+.logos {
+	width: 60px;
+	height: 60px;
+	padding: 3px;
+	margin-top: 30px;
+
+}	
